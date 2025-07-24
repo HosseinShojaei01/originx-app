@@ -7,4 +7,3 @@ email-validator
 aiofiles
 stripe
 matplotlib
-
