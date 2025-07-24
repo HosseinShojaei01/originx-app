@@ -1,9 +1,10 @@
 fastapi
 uvicorn
 deepface==0.0.79
-tensorflow==2.0.0
+tensorflow==2.9.1
 python-multipart
 email-validator
 aiofiles
 stripe
 matplotlib
+
