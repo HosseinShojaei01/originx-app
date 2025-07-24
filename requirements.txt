@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 deepface==0.0.79
+tensorflow==2.0.0
 python-multipart
 email-validator
 aiofiles
